@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn">#E3D5CA</color>
+    <color name="text">#673AB7</color>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:buttonTint">@color/btn</item> <!-- لتغيير لون النص -->
+        <item name="android:textColorPrimary">@color/text</item> <!-- لون العنوان -->
+    </style>
+</resources>

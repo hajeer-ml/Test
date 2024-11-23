@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="n1">Account</string>
+    <string name="n2">Call</string>
+    <string name="n3">Location</string>
+    <string name="n4">Photo</string>
+    <string name="n5">Access</string>
+    <string-array name="name1">
+        <item>Account</item>
+        <item>Call</item>
+        <item>Location</item>
+        <item>Photo</item>
+        <item>Access_Time</item>
+    </string-array>
+</resources>
